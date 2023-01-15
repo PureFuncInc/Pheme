@@ -1,7 +1,7 @@
 ---
 
-name: 🐛 Submit a Bug 
-about: 
+name: Submit a Bug 
+about: 🐛🐛🐛
 assignees: Jian-Min-Huang
 labels: bug
 
