@@ -1,6 +1,6 @@
 ---
 
-name: Submit a Enhancement Idea
+name: Submit a Enhancement
 about: 💡💡💡
 assignees: Jian-Min-Huang
 labels: enhancement
