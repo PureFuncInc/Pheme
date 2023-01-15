@@ -1,6 +1,6 @@
 ---
 
-name: Submit a Bug
+name: 🐛 Submit a Bug 
 about: Bug Template
 assignees: Jian-Min-Huang
 labels: bug
