@@ -34,4 +34,8 @@ labels: bug
 
 > v0.0.0
 
+# Your Account
+
+> vincent@purefunc.net
+
 # Screenshots
