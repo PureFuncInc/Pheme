@@ -36,6 +36,6 @@ labels: bug
 
 # Your Account
 
-> vincent@purefunc.net
+> abc@example.com
 
 # Screenshots
