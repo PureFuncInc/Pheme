@@ -2,7 +2,7 @@
 
 name: Submit a Bug
 about: Bug Report Template
-assignees: Jian-Min Huang
+assignees: Jian-Min-Huang
 labels: bug
 
 ---
