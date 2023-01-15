@@ -1,7 +1,7 @@
 ---
 
-name: ❓ Submit a Question
-about: Question Template
+name: Submit a Question
+about: ❓❓❓
 assignees: Jian-Min-Huang
 labels: question
 
