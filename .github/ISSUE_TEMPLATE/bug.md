@@ -1,7 +1,7 @@
 ---
 
 name: Submit a Bug
-about: Bug Report Template
+about: Bug Template
 assignees: Jian-Min-Huang
 labels: bug
 
